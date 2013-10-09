@@ -8,12 +8,12 @@ Blog::Application.routes.draw do
   
 # You can have the root of your site routed with "root"
   
-root 'hello#world'
+  root 'hello#world'
 
   
 # Example of regular route:
   
-#   get 'products/:id' => 'catalog#view'
+#  get 'hello/world' => 'hello#world'
 
   
 # Example of named route that can be invoked with purchase_url(id: product.id)

@@ -1,8 +1,11 @@
 class HelloController < ApplicationController
   
 
-def World
+def world
   
+
+@declaration = "Hello World! - Variable"
+
 end
 
 end
